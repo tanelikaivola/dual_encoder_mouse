@@ -1,4 +1,5 @@
 /*
+Works on Teensy. Mouse.move might not be available on every platform listed here.
 
 Use these digital pins with interrupts:
 Board             Interrupt pins           Led pin (Do not use)
